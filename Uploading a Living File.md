@@ -37,3 +37,4 @@ duplicating a previously made file.
 
 ## Generating a Shareable Link in OneDrive
 
+Access to the OneDrive file is achieved through shareable links
