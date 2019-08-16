@@ -81,10 +81,6 @@ Use the following steps to upload the copied OneDrive link to the team page:
 
 ***The link has now been successfully added to the team page.***
 
-```
 
-For original source file (complete with images), go to: 
 
-https://github.com/taddieken95/Accuray_Team_Page_Docs/blob/master/Uploading%20a%20Living%20File.md
-
-```
+> **NOTE:** For original source file (complete with images), go to: https://github.com/taddieken95/Accuray_Team_Page_Docs/blob/master/Uploading%20a%20Living%20File.md
