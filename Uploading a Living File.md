@@ -45,6 +45,9 @@ Access to the live OneDrive file is not achieved through uploading the file to t
 > **NOTE:** When generating a link, the user decides whether recipients can edit the file or if it is for viewing purposes only.
 
 3. Go to **Link Settings** and uncheck the checkbox next to **Allow Editing** if the file is for viewing purposes only. Otherwise, leave as is.
+
+![alt text](https://github.com/taddieken95/Accuray_Team_Page_Docs/blob/master/images/Link%20Settings.png "Link Settings")
+
 4. Click **Copy Link**. Then click **Copy**.
 
 The link has now been copied to the user's clipboard. 
