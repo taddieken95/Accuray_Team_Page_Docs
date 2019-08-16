@@ -79,4 +79,12 @@ Use the following steps to upload the copied OneDrive link to the team page:
 8. Assign desired title for link, along with (optionally) changing the associated icon for quick reference clarification. Close the side bar when finished (the link properties will automatically update).
 9. Click the purple **Republish** button in the top-right corner of the screen.
 
-The link has now been successfully added to the team page.
+***The link has now been successfully added to the team page.***
+
+```
+
+For original source file (complete with images), go to: 
+
+https://github.com/taddieken95/Accuray_Team_Page_Docs/blob/master/Uploading%20a%20Living%20File.md
+
+```
