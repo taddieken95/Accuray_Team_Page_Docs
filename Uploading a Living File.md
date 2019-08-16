@@ -37,4 +37,14 @@ duplicating a previously made file.
 
 ## Generating a Shareable Link in OneDrive
 
-Access to the OneDrive file is achieved through shareable links
+Access to the live OneDrive file is not achieved through uploading the file to the team page, but rather by generating a link to the OneDrive file and sharing it to the team page. Perform the following steps to create a OneDrive link.
+
+1. Open the OneDrive file. Go to **File**.
+2. Click **Share**, go to **Share with People**, then click **Share with People**
+
+> **NOTE:** When generating a link, the user decides whether recipients can edit the file or if it is for viewing purposes only.
+
+3. Go to **Link Settings** and uncheck the checkbox next to **Allow Editing** if the file is for viewing purposes only. Otherwise, leave as is.
+4. Click **Copy Link**. Then click **Copy**.
+
+The link has now been copied to the user's clipboard. 
