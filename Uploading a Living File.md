@@ -65,7 +65,7 @@ Use the following steps to upload the copied OneDrive link to the team page:
 
 > **NOTE:** This button is not visible until the cursor hovers over it's location in the center-top area of the subsection.
 
-![alt text](https://github.com/taddieken95/Accuray_Team_Page_Docs/blob/master/images/Add%20a%20new%20web%20part.png "Add a New Web Part")
+![alt text](https://github.com/taddieken95/Accuray_Team_Page_Docs/blob/master/images/Add%20new%20web%20part.png "Add a New Web Part")
 
 4. Under the **All A to Z** subsection, scroll down and click **Quick Links**. This quick link web part will act as a folder containing all links to the appropriate OneDrive files.
 
