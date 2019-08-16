@@ -51,3 +51,28 @@ Access to the live OneDrive file is not achieved through uploading the file to t
 4. Click **Copy Link**. Then click **Copy**.
 
 The link has now been copied to the user's clipboard. 
+
+## Uploading Link to Team Page
+
+Use the following steps to upload the copied OneDrive link to the team page:
+
+1. Open the **Global Manufacturing Team Page** site. Go to the desired upload location.
+2. Click the purple **Edit** square in the top right corner.
+
+> **NOTE:** If a subsection does not already exist, click **Add a new section** (plus symbol on the left hand side). Add appropriate text for a heading and description.
+
+3. Go to the desired subsection and click **Add a new web part in column one**
+
+> **NOTE:** This button is not visible until the cursor hovers over it's location in the center-top area of the subsection.
+
+4. Under the **All A to Z** subsection, scroll down and click **Quick Links**. This quick link web part will act as a folder containing all links to the appropriate OneDrive files.
+
+> **NOTE:** In the **Featured** section at the top, there is a **Link** button. Do not click this, as this is not the feature desired.
+
+5. Click **Add a link** OR **+ Add links** (both contain the same functionality).
+6. Go to **From a link**. Paste the link copied to the clipboard.
+7. Click **Open** in the bottom-right corner of the screen. A Quick Links sidebar will appear on the right side of the screen.
+8. Assign desired title for link, along with (optionally) changing the associated icon for quick reference clarification. Close the side bar when finished (the link properties will automatically update).
+9. Click the purple **Republish** button in the top-right corner of the screen.
+
+The link has now been successfully added to the team page.
